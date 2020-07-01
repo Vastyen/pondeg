@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:Geomanist;src:url(fonts/Geomanist.woff) ;
+}
+head{
+    background-color: #a3907c ;
+    color:#ffffff;
+}
+footer{
+    padding-top: 6cm;
+}
+#container-head{
+    position: relative;
+    padding-top: 1cm;
+    padding-bottom: 2cm;
+    max-height: 500px;
+}
+#container-all{
+    width: 100%;
+    margin: auto;
+}
+#container-sub-footer{
+    color:#ffffff;
+    width: 100%;
+    background: #485a6c;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+#container-footer{
+    background: #333333;
+    color:#ffffff;
+    display: flex;
+    padding: 0.5cm;
+    justify-content: space-between;
+}
+.colum1{
+    max-width: 400px;
+}
+.colum1 p{
+    margin-top: 1cm;
+}
+
+.colum1 label{
+    font-size: 15px;
+}
+.colum3 label{
+    font-size: 15px;
+}
+.row2 {
+    margin-top: 1cm;
+}
+@media screen and (max-width: 80%){
+    #container-body{
+    flex-wrap:wrap;
+
+}
+}
