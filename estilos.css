@@ -2,24 +2,31 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family:Geomanist;src:url(fonts/Geomanist.woff) ;
+    font-family:Geomanist;
 }
-head{
+@font-face{
+    font-family:Geomanist;
+    src:url(fonts/Geomanist.woff) ;
+}
+
+
+header{
     background-color: #a3907c ;
     color:#ffffff;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
 }
 footer{
     padding-top: 6cm;
 }
-#container-head{
-    position: relative;
-    padding-top: 1cm;
-    padding-bottom: 2cm;
-    max-height: 500px;
-}
-#container-all{
-    width: 100%;
-    margin: auto;
+
+
+#container-footer{
+    background: #333333;
+    color:#ffffff;
+    display: flex;
+    padding: 0.5cm;
+    justify-content: space-between;
 }
 #container-sub-footer{
     color:#ffffff;
@@ -29,29 +36,57 @@ footer{
     padding: 20px;
     justify-content: space-between;
 }
-#container-footer{
-    background: #333333;
-    color:#ffffff;
+
+
+#container-left{
+    display:flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
+
+#container-center{
     display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+    }
+.columna1{
+    max-width: 300px;
+}
+.columna1 p{
+    padding-bottom: 2cm;
+}
+
+.columna1 label{
+    font-size: 15px;
+}
+
+.columna2{
+    font-size: 15px;
+    display: flex;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     padding: 0.5cm;
-    justify-content: space-between;
+
 }
-.colum1{
-    max-width: 400px;
+.columna3 label{
+    font-size: 15px;
 }
-.colum1 p{
+.fila2 {
     margin-top: 1cm;
 }
 
-.colum1 label{
-    font-size: 15px;
+#container-atombody{
+    padding-top: 2cm;
 }
-.colum3 label{
-    font-size: 15px;
-}
-.row2 {
-    margin-top: 1cm;
-}
+
 @media screen and (max-width: 80%){
     #container-body{
     flex-wrap:wrap;
