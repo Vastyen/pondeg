@@ -45,10 +45,9 @@ footer{
     align-items: left;
 }
 
-#container-center{
+.centrar{
     display: flex;
     flex-direction: column;
-    
     justify-content: center;
     align-items: center;
     }
@@ -67,6 +66,9 @@ footer{
     font-size: 15px;
     display: flex;
 }
+.columna2 a{
+    color: white;
+}
 
 .redes{
     display: flex;
@@ -83,11 +85,12 @@ footer{
     margin-top: 1cm;
 }
 
-#container-atombody{
+.atombody{
     padding-top: 2cm;
+    width: 160px;
 }
 
-@media screen and (max-width: 80%){
+@media screen and (max-width: 100%){
     #container-body{
     flex-wrap:wrap;
 
