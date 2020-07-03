@@ -1,30 +1,55 @@
 *{
-    margin: 0px;
+    margin: 0.1px;
     padding: 0px;
     box-sizing: border-box;
     font-family:Geomanist;
+    user-select: none;
 }
 @font-face{
     font-family:Geomanist;
     src:url(fonts/Geomanist.woff) ;
 }
 header{
-    background-color: #a3907c ;
+    position: relative;
+    background-color: #666666;
     color:#ffffff;
-    padding-top: 1cm;
-    padding-bottom: 1cm;
+    padding-top: 0.8cm;
+    padding-bottom: 0.8cm;
+    border-bottom-right-radius: 1.5cm;
+    border-top-left-radius: 1.5cm;
+    border-bottom-left-radius: 5mm;
 }
+
+
 footer{
-    padding-top: 6cm;
+    padding-top: 8cm;
 }
+
+
+
+#container-header{
+    background-color: #667885;
+    position: relative;
+    border-radius: 0.5cm;
+}
+
+#subcontainer-header{
+    position: relative;
+    background-color: #333333;
+    border-radius: 1cm;
+    
+}
+
 #container-footer{
     background: #333333;
     color:#ffffff;
     display: flex;
+    position: relative;
     padding: 0.5cm;
     justify-content: space-between;
 }
 #container-sub-footer{
+    position: relative;
     color:#ffffff;
     width: 100%;
     background: #485a6c;
@@ -67,6 +92,7 @@ footer{
     padding: 0.5cm;
 }
 .redes a{
+    user-select: none;
     padding-top: 3mm;
     color: white;
 }
@@ -74,13 +100,17 @@ footer{
     margin-top: 1cm;
 }
 .atombody{
-    padding-top: 2cm;
-    width: 160px;
+    top: 1cm;
+    display: block;
+    position: relative;
+    width: 120px;
 }
 .redesimg{
+    user-select: none;
     width: 35px;
 }
 .menu{
+    position: absolute;
     visibility: hidden;
 }
 #desplegarmenu{
@@ -89,21 +119,45 @@ footer{
 .botonmenu:checked +.menu{
     padding-top: 8px;
     display: flex;
-    justify-content: center;
+    justify-content: center;   
     visibility: visible;
     position: absolute;
     background: #ed5353;
     color: white;
     border-top-right-radius: 0.8cm;
-    border-bottom-right-radius: 0.8cm;
-    width: 80px;
-    height: 70%;
+    border-bottom-right-radius: 5cm;
+    width: 100px;
+    height: 65%;
 }
 .bt {
-    top: 3.4cm;
-    left: 2.5cm;
+    display: flex;
+    top: 3cm;
+    left: 3.0cm;
     position: absolute;
-    background-color: #e4c6fa;
+    background-color:#d4d4d4;
+    color: black;
     border-radius: 1mm;
-    user-select: none
+}
+
+.opciones{
+    top: 2cm;
+    bottom: 2cm;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.opciones label{
+
+    padding: 0.5cm;
+}
+
+#contenedormenu{
+    position: absolute;
+    border-top-right-radius: 6mm;
+    border-bottom-right-radius: 100%;
+    background-color:#273445;
+    width: 250px;
+    height: 80%
 }
