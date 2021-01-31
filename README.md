@@ -1,12 +1,12 @@
 # Pondeg 📑️
 
+¿Qué es Pondeg? Es una herramienta simple y fácil de usar para la ponderación del puntaje de la prueba de admisión universitaria.
+
 Tecnologías Utilizadas:
 
 • Frontend: JavaScript HTML5 CSS3 Extensible Markup Language Java Android Studio
 
 • Backend: JavaScript
-
-¿Qué es Pondeg? Es una herramienta simple y fácil de usar para la ponderación del puntaje de la prueba de admisión universitaria.
 
 
 ¿Cómo puedo acceder a la aplicación?
@@ -31,6 +31,8 @@ Tecnologías Utilizadas:
 
 ¿Quién hizo esto? ¡Hola! Mi nombre es Bastián, tengo 21 años y actualmente soy estudiante de Ingeniería y estoy practicando y desarrollándome como informático.
 
+What is Pondeg?
+It is a simple and easy to use tool college scores.
 
 
 Used:
@@ -39,8 +41,6 @@ Used:
 
 • Backend: JavaScript
 
-What is Pondeg?
-It is a simple and easy to use tool college scores.
 
 
 
