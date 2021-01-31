@@ -20,6 +20,9 @@ Tecnologías Utilizadas:
     
     No me instala, ¿Qué puedo hacer?
     Si la aplicación no instala, debes verificar que se hayan activado los permisos oportunamente, debes activar los orígenes desconocidos para la instalación de la aplicación.
+    
+    ¿Que dispositivos soporta? 
+    Actualmente solo soporta dispositivos cuyas pantallas, no sean tan grandes, funcionará bien en cualquier celular Android excepto tablets.
 
 
 ¿Es gratis? Sí, la descarga y utilización de la aplicación es absolutamente gratis.
