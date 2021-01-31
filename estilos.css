@@ -33,7 +33,7 @@ footer{
     position: relative;
     background-color: #333333;
     border-radius: 1cm;
-    
+
 }
 
 #container-footer{
@@ -116,7 +116,7 @@ footer{
     top: 3cm;
     padding-top: 8px;
     display: flex;
-    justify-content: center;   
+    justify-content: center;
     position: absolute;
     background: #ed5353;
     color: white;
@@ -129,7 +129,7 @@ footer{
 .botonmenu:checked +.menu{
     width: 100px;
     height: 65%;
-    
+
 }
 .bt {
     display: flex;
