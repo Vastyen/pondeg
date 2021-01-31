@@ -7,9 +7,9 @@ Pondeg 📑️.
 
 Tecnologías Utilizadas:
 
--Frontend: JavaScript HTML5 CSS3 Extensible Markup Language Java Android Studio
+• Frontend: JavaScript HTML5 CSS3 Extensible Markup Language Java Android Studio
 
--Backend: JavaScript
+• Backend: JavaScript
 
 ¿Qué es Pondeg? Es una herramienta simple y fácil de usar para la ponderación del puntaje de la prueba de admisión universitaria.
 
@@ -18,7 +18,7 @@ Tecnologías Utilizadas:
 
 ¡Muy fácil! solo sigue estos pasos:
 
-    Instalación
+    •  Instalación
 
     Accede a este enlace para generar la descarga y posteriormente realizar la instalación Luego solo basta con abrirla, no existe ningún tipo de registro ni verificación de datos.
     https://github.com/Bescri/Pondeg/blob/master/Pondeg.apk
