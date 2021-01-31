@@ -54,7 +54,7 @@ Very easy, just follow this steps
     
     You have to activate the permissions of unknown origins.
   
-Who do that? 
+Who did that? 
 ¡Hi! 
 My name is Bastián and i'm a computer sciencie student of the University of Santiago of Chile. This is my passion.      
     
