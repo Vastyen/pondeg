@@ -13,11 +13,6 @@ Tecnologías Utilizadas:
 
 ¿Qué es Pondeg? Es una herramienta simple y fácil de usar para la ponderación del puntaje de la prueba de admisión universitaria.
 
-¿Es gratis? Sí, la descarga y utilización de la aplicación es absolutamente gratis.
-
-¿Es un virus o algo así? No, la aplicación está pensada para estudiantes que esten por rendir la prueba de admisión universitaria.
-
-¿Quién hizo esto? ¡Hola! Mi nombre es Bastián, tengo 21 años y actualmente soy estudiante de Ingeniería y estoy practicando y desarrollándome como informático.
 
 ¿Cómo puedo acceder a la aplicación?
 
@@ -32,3 +27,8 @@ Tecnologías Utilizadas:
     Si la aplicación no instala, debes verificar que se hayan activado los permisos oportunamente, debes activar los orígenes desconocidos para la instalación de la aplicación.
 
 
+¿Es gratis? Sí, la descarga y utilización de la aplicación es absolutamente gratis.
+
+¿Es un virus o algo así? No, la aplicación está pensada para estudiantes que esten por rendir la prueba de admisión universitaria.
+
+¿Quién hizo esto? ¡Hola! Mi nombre es Bastián, tengo 21 años y actualmente soy estudiante de Ingeniería y estoy practicando y desarrollándome como informático.
