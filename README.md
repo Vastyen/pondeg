@@ -32,3 +32,44 @@ Tecnologías Utilizadas:
 ¿Es un virus o algo así? No, la aplicación está pensada para estudiantes que esten por rendir la prueba de admisión universitaria.
 
 ¿Quién hizo esto? ¡Hola! Mi nombre es Bastián, tengo 21 años y actualmente soy estudiante de Ingeniería y estoy practicando y desarrollándome como informático.
+
+
+
+Used:
+
+• Frontend: JavaScript HTML5 CSS3 Extensible Markup Language Java Android Studio
+
+• Backend: JavaScript
+
+What is Pondeg?
+It is a simple and easy to use tool college scores.
+
+
+
+How can I use Pondeg?
+
+Very easy, just follow this steps
+
+    Installation
+    
+    Click on the link to generate the download link, after just install it and open :).
+    https://github.com/Bescri/Pondeg/blob/master/Pondeg.apk
+    
+    I cant Install :( 
+    
+    You have to activate the permissions of unknown origins.
+  
+Who do that? 
+¡Hi! 
+My name is Bastián and i'm a computer sciencie student of the University of Santiago of Chile. This is my passion.      
+    
+It's free?
+Yes, the download and use it's absolutly free.
+
+It's safe?
+Of course, as I said, i'm just a computer science student wanting to learn :).
+
+
+
+
+
