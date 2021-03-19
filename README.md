@@ -1,6 +1,6 @@
 # Pondeg 📑️
 
-## **¿Qué es Pondeg? **
+## ¿Qué es Pondeg? 
 
 Es una herramienta simple y fácil de usar para la ponderación del puntaje de la prueba de admisión universitaria.
 
@@ -65,7 +65,7 @@ It's free? Yes, the download and use it's absolutly free.
 It's safe? Of course, as I said, i'm just a computer science student wanting to learn :).
 
 
-*Code by Bescri <3 *
+*Code by Bescri <3*
 
 ------------
 
