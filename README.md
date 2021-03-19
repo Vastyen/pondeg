@@ -34,7 +34,7 @@ Actualmente solo soporta dispositivos cuyas pantallas, no sean tan grandes, func
 
 ¿Quién hizo esto? ¡Hola! Mi nombre es Bastián, tengo 21 años y actualmente soy estudiante de Ingeniería y estoy practicando y desarrollándome como informático.
 
-##**What is Pondeg?** 
+## **What is Pondeg?** 
 
 It is a simple and easy to use tool college scores.
 
