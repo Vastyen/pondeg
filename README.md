@@ -66,7 +66,7 @@ It's safe? Of course, as I said, i'm just a computer science student wanting to 
 
 
 <p align="center">
-  #### Code by Bescri <3
+Code by Bescri <3
 </p>
 
 
