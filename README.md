@@ -65,7 +65,11 @@ It's free? Yes, the download and use it's absolutly free.
 It's safe? Of course, as I said, i'm just a computer science student wanting to learn :).
 
 
-*Code by Bescri <3*
+<p align="center">
+  *Code by Bescri <3*
+</p>
+
+
 
 ------------
 
