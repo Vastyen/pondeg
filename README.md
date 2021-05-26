@@ -1,5 +1,36 @@
 # Pondeg 📑️
 
+
+## **What is Pondeg?** 
+
+It is a simple and easy to use tool college scores.
+
+Used:
+
+• **Frontend**: JavaScript HTML5 CSS3 Extensible Markup Language Java Android Studio
+
+• **Backend**: JavaScript
+
+How can I use Pondeg?
+
+Very easy, just follow this steps
+
+### Install
+
+Click on the link to generate the download link, after just install it and open :).
+https://github.com/Bescri/Pondeg/blob/master/Pondeg.apk
+
+### Frequent Questions
+
+I can't Install :( 
+You have to activate the permissions of unknown origins.
+
+Who did that? ¡Hi! My name is Bastián and i'm a computer sciencie student of the University of Santiago of Chile. This is my passion.
+
+It's free? Yes, the download and use it's absolutly free.
+
+It's safe? Of course, as I said, i'm just a computer science student wanting to learn :).
+
 ## ¿Qué es Pondeg? 
 
 Es una herramienta simple y fácil de usar para la ponderación del puntaje de la prueba de admisión universitaria.
@@ -33,36 +64,6 @@ Actualmente solo soporta dispositivos cuyas pantallas, no sean tan grandes, func
 ¿Es un virus o algo así? No, la aplicación está pensada para estudiantes que esten por rendir la prueba de admisión universitaria.
 
 ¿Quién hizo esto? ¡Hola! Mi nombre es Bastián, tengo 21 años y actualmente soy estudiante de Ingeniería y estoy practicando y desarrollándome como informático.
-
-## **What is Pondeg?** 
-
-It is a simple and easy to use tool college scores.
-
-Used:
-
-• **Frontend**: JavaScript HTML5 CSS3 Extensible Markup Language Java Android Studio
-
-• **Backend**: JavaScript
-
-How can I use Pondeg?
-
-Very easy, just follow this steps
-
-### Install
-
-Click on the link to generate the download link, after just install it and open :).
-https://github.com/Bescri/Pondeg/blob/master/Pondeg.apk
-
-### Frequent Questions
-
-I can't Install :( 
-You have to activate the permissions of unknown origins.
-
-Who did that? ¡Hi! My name is Bastián and i'm a computer sciencie student of the University of Santiago of Chile. This is my passion.
-
-It's free? Yes, the download and use it's absolutly free.
-
-It's safe? Of course, as I said, i'm just a computer science student wanting to learn :).
 
 
 <p align="center">
