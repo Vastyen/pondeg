@@ -17,8 +17,12 @@ Very easy, just follow this steps
 
 ### Install
 
+------------
+
 Click on the link to generate the download link, after just install it and open :).
 https://github.com/Bescri/Pondeg/blob/master/Pondeg.apk
+
+------------
 
 ### Frequent Questions
 
