@@ -8,8 +8,11 @@ It is a simple and easy to use tool college scores.
 ## Stack
 
 •  Java 
+
 •  JavaScript 
+
 •  HTML5 
+
 •  CSS3  
 
 
