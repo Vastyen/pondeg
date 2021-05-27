@@ -5,19 +5,21 @@
 
 It is a simple and easy to use tool college scores.
 
-Used:
+## Stack
 
-• **Frontend**: JavaScript HTML5 CSS3 Extensible Markup Language Java Android Studio
+•  Java 
+•  JavaScript 
+•  HTML5 
+•  CSS3  
 
-• **Backend**: JavaScript
 
-How can I use Pondeg?
-
-Very easy, just follow this steps
 
 ### Install
 
 ------------
+
+How can I use Pondeg?
+Very easy, just follow this steps
 
 Click on the link to generate the download link, after just install it and open :).
 https://github.com/Bescri/Pondeg/blob/master/Pondeg.apk
