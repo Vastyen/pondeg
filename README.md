@@ -15,9 +15,12 @@ It is a simple and easy to use tool college scores.
 
 •  CSS3  
 
+## Plataform
+
+Actually supports Web View and Android 2.6+
 
 
-### Install
+### Android Install
 
 ------------
 
