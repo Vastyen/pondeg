@@ -1,4 +1,4 @@
-# Pondeg 📑️
+# Pondeg 🧮
 
 
 ## **What is Pondeg?** 
