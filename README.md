@@ -45,7 +45,6 @@ It's safe? Of course, as I said, i'm just a computer science student wanting to 
 
 ------------
 
-+ Responsive View
                     
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
